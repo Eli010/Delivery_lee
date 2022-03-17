@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "780364385639",
+    "project_id": "delivery-app-lee",
+    "storage_bucket": "delivery-app-lee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780364385639:android:b30c38fd5a7a57982173c2",
+        "android_client_info": {
+          "package_name": "com.example.delivery_lee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780364385639-5bairu7coa543oqc00t6340kd5biuh6j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.delivery_lee",
+            "certificate_hash": "30b788a6a5c76e1de40cd7da167a2363818f453f"
+          }
+        },
+        {
+          "client_id": "780364385639-g56uckv989eejs99qavrvlbqstqcejml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSoZWpqkZ3GVOxCNIYlLYjLOVGjmi39nQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780364385639-g56uckv989eejs99qavrvlbqstqcejml.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
